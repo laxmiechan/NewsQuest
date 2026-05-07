@@ -1,0 +1,6 @@
+{
+  "name": "NewsQuest AI",
+  "description": "Generate interactive binary-choice questions and metadata from any news article link using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
